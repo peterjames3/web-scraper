@@ -1,4 +1,5 @@
 import puppeteer from "puppeteer";
+import fs from 'fs/promises'
 
 const scrapeWebsite = async () => {
   // Launch the browser and open a new blank page
@@ -27,10 +28,21 @@ const scrapeWebsite = async () => {
         book.querySelector("h3 a")?.getAttribute("title") || "No title";
       const price =
         book.querySelector(".price_color")?.textContent || "No price";
-      return { title, price, bookImage, bookUrl };
+      const stock = book.querySelector(".instock.availability")
+        ? "In Stock"
+        : "Out of stock";
+      const rating = book.querySelector('.star-rating')?.className.split(' ')[1]; 
+      return { title, price, bookImage, bookUrl, stock, rating };
     });
   });
-  return books;
+  //return books;
+  try{
+    await fs.writeFile( "books.json",  JSON.stringify(books, null, 2));
+    console.log('JSON file saved as  books.json')
+  }catch(error: unknown){
+    return error;
+  }
+
   await browser.close();
 };
 export default scrapeWebsite;

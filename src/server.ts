@@ -2,7 +2,7 @@ import express from "express";
 import scrapeWebsite from "./scraper.ts";
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 4000;
 
 app.use(express.json());
 app.get("/scrape", async (req, res) => {
