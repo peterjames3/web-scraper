@@ -3,7 +3,8 @@
 
 > Think of  it like this:
 - .'Everything outside  'evaluate' runs in  Node.js'
--.'Everything inside  'evaluate(()=> { ...}) runs in the browser - like -   you're inside a webpage.'
+
+- .'Everything inside  'evaluate(()=> { ...}) runs in the browser - like    you're inside a webpage.'
 
 
 ## syntax
