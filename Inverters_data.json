@@ -1,0 +1,3147 @@
+{
+  "website": "SolarShop Kenya",
+  "baseUrl": "https://solarshop.co.ke/solar-inverters/",
+  "scrapedAt": "2025-08-09T21:03:56.696Z",
+  "totalProducts": 112,
+  "products": [
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "error": "Navigation timeout of 60000 ms exceeded"
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "TNTorch Solar Flood Lights 300W",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/tntorch-solar-flood-lights-300w/",
+      "specifications": {},
+      "description": "Elevate your outdoor lighting with TNTorch Solar Flood Lights 300W – the ultimate solution for powerful illumination and enhanced security. Harness the sun’s energy for cost-efficient, eco-friendly lighting that’s perfect for diverse outdoor spaces.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ]
+    },
+    {
+      "name": "5 Meter Solar Strip Warm Light (KTL-801D1)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-strip-led-lights/5-meter-solar-strip-warm-light-ktl-801d1/",
+      "specifications": {
+        "Model": "MJ-SM50",
+        "Material": "ABS+Silicone",
+        "Strip Length": "5m",
+        "LED QTY (PCS)": "SMD2835 48 pcs/m",
+        "Battery": "LiFePO4 6Ah",
+        "Solar Panel": "4V/9W\n(Polycrystalline)",
+        "CCT": "3000-3500K",
+        "Charging Time": "Effective sunshine 4-6 hours",
+        "Discharge Time": "12 Hours+",
+        "Discharge Current": "125MA",
+        "Luminous Flux": "360LM",
+        "Lighting Mode": "Constant lighting\nFlash\nBreathing",
+        "Product Features": "Optical + Switch Control",
+        "IP Rank": "IP65"
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "200W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/200w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "200W",
+        "LED bead（5050）": "80pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Modi 500 Watts LED Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-solar-flood-light-500-watts/",
+      "specifications": {},
+      "description": "MODI solar flood light 500 watts\n\nLong-Term Solution\nRemote Control\nEnvironmental friendly energy\nWide Beam Angle\nHigh-quality components\nWeatherproof body",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "AllTop 3000W Motion Sensor Solar Streets Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-streetlights-with-motion-sensor/alltop-3000w-motion-sensor-solar-streets-light/",
+      "specifications": {
+        "Model": "3000W Solar LED Street Light",
+        "LED Lamp": "Bridgelux 5730 LED 432PCS, 6000K-6500K",
+        "Solar Panel": "10V 39W, Polycrystalline",
+        "Battery Type": "LiFePO4 6.4V 30AH",
+        "Charging Time": "6-8 hours",
+        "Discharging Time": "20-24 hours",
+        "LED Luminous Efficacy": "160 lm/w",
+        "Material": "Aluminum",
+        "Lamp Size": "901220118 mm",
+        "Install Height": "9-12m",
+        "Warranty": "3 years"
+      },
+      "description": "AllTop 3000W Motion Sensor Solar Streets Lights\n3000W Solar LED Street Light\nLED Lamp: 5730 LED 800PCS 6000K\nSolar Panel: 6V 30W, Polycrystalline\nBattery Type: LiFePO4 3.2V 30AH\nCharging time: 6-8 hours\nDischarging time: 12-15 hours\nLed: 160 lm/w\nMaterial: ABS\nProduct Size: 677*342*70mm\nInstall Height: 6-8m\nWarranty: 2 years",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ]
+    },
+    {
+      "name": "100W Solar Celing Light (KTL-901E1-100W)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-stand-alone-lights/100w-solar-celing-light-ktl-901e1-100w/",
+      "specifications": {},
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "500W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/500w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "500W",
+        "LED bead（5050）": "95pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "300W",
+        "LED bead（5050）": "72pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "TNTorch Solar Flood Lights 300W",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/tntorch-solar-flood-lights-300w/",
+      "specifications": {},
+      "description": "Elevate your outdoor lighting with TNTorch Solar Flood Lights 300W – the ultimate solution for powerful illumination and enhanced security. Harness the sun’s energy for cost-efficient, eco-friendly lighting that’s perfect for diverse outdoor spaces.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ]
+    },
+    {
+      "name": "5 Meter Solar Strip Warm Light (KTL-801D1)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-strip-led-lights/5-meter-solar-strip-warm-light-ktl-801d1/",
+      "specifications": {
+        "Model": "MJ-SM50",
+        "Material": "ABS+Silicone",
+        "Strip Length": "5m",
+        "LED QTY (PCS)": "SMD2835 48 pcs/m",
+        "Battery": "LiFePO4 6Ah",
+        "Solar Panel": "4V/9W\n(Polycrystalline)",
+        "CCT": "3000-3500K",
+        "Charging Time": "Effective sunshine 4-6 hours",
+        "Discharge Time": "12 Hours+",
+        "Discharge Current": "125MA",
+        "Luminous Flux": "360LM",
+        "Lighting Mode": "Constant lighting\nFlash\nBreathing",
+        "Product Features": "Optical + Switch Control",
+        "IP Rank": "IP65"
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "200W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/200w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "200W",
+        "LED bead（5050）": "80pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Modi 500 Watts LED Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-solar-flood-light-500-watts/",
+      "specifications": {},
+      "description": "MODI solar flood light 500 watts\n\nLong-Term Solution\nRemote Control\nEnvironmental friendly energy\nWide Beam Angle\nHigh-quality components\nWeatherproof body",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "AllTop 3000W Motion Sensor Solar Streets Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-streetlights-with-motion-sensor/alltop-3000w-motion-sensor-solar-streets-light/",
+      "specifications": {
+        "Model": "3000W Solar LED Street Light",
+        "LED Lamp": "Bridgelux 5730 LED 432PCS, 6000K-6500K",
+        "Solar Panel": "10V 39W, Polycrystalline",
+        "Battery Type": "LiFePO4 6.4V 30AH",
+        "Charging Time": "6-8 hours",
+        "Discharging Time": "20-24 hours",
+        "LED Luminous Efficacy": "160 lm/w",
+        "Material": "Aluminum",
+        "Lamp Size": "901220118 mm",
+        "Install Height": "9-12m",
+        "Warranty": "3 years"
+      },
+      "description": "AllTop 3000W Motion Sensor Solar Streets Lights\n3000W Solar LED Street Light\nLED Lamp: 5730 LED 800PCS 6000K\nSolar Panel: 6V 30W, Polycrystalline\nBattery Type: LiFePO4 3.2V 30AH\nCharging time: 6-8 hours\nDischarging time: 12-15 hours\nLed: 160 lm/w\nMaterial: ABS\nProduct Size: 677*342*70mm\nInstall Height: 6-8m\nWarranty: 2 years",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ]
+    },
+    {
+      "name": "100W Solar Celing Light (KTL-901E1-100W)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-stand-alone-lights/100w-solar-celing-light-ktl-901e1-100w/",
+      "specifications": {},
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "500W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/500w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "500W",
+        "LED bead（5050）": "95pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "300W",
+        "LED bead（5050）": "72pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Felicity 30Amps MPPT Solar Charge Controller | 12V/24V",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/felicity-30amps-mppt-solar-charge-controller-12v-24v/",
+      "specifications": {
+        "Charge Current": "30 Amps",
+        "System Voltage": "12V/24V (Auto-sensing)",
+        "Maximum Input Voltage": "100V DC",
+        "Maximum PV Input Power": "400W (12V), 800W (24V)",
+        "Charging Algorithm": "MPPT (Maximum Power Point Tracking)",
+        "Battery Types": "Lead-Acid, Gel, AGM",
+        "Efficiency": "≥ 99%",
+        "Temperature Compensation": "Automatic",
+        "Protection": "Overcharge, Overload, Short Circuit",
+        "Display": "LCD Display for Real-time Monitoring",
+        "Operating Temperature": "-20°C to 55°C",
+        "Dimensions (LxWxH)": "Varies depending on model"
+      },
+      "description": "MPPT 30A/40A/50A/60A solar charge controller\n100% MPPT technology\n0 Layer, easy installation, easy setup\nBuilt-in MCU controller with high performance\nAutomatic switch for 12V/24V/48V battery bank\n3-stage charging optimizes battery performance\nOvercharge protection, Input PV polarity reverse protection, Output limited current protection,Over-temperature protection\nSuitable for battery types such as sealed lead acid, vented gel, and lithium battery, etc\nEasy to be mounted",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/100-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-100-tr-charge-controller/",
+      "specifications": {},
+      "description": "The MPPT VE.Can SmartSolar charger uses the latest and fastest technology to convert energy from a solar array into energy that optimally charges a battery banks.\nThe SmartSolar charge controller will even recharge a severely depleted battery. It can operate with a battery voltage as low as 0 Volts, provided the cells are not permanently sulphated or otherwise damaged.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Blue Solar Charge Controller MPPT 150/70 CAN BUS",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-blue-solar-charge-controller-mppt-150-70-can-bus/",
+      "specifications": {
+        "Battery Operating Voltage Range": "12/24/36/48 V",
+        "Communication Ports": "VE.Can",
+        "Display": "Yes",
+        "Color Control GX": "Compatible"
+      },
+      "description": "Product Datasheet\n\n\n\nBattery Operating Voltage Range\n12/24/36/48 V\n\n\nCommunication Ports\nVE.Can\n\n\nDisplay\nYes\n\n\nColor Control GX\nCompatible",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Huawei LUNA Power Module Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/huawei-luna-power-module-controller/",
+      "specifications": {
+        "Model": "Huawei LUNA Power Module Controller",
+        "Dimensions (W x D x H)": "590 mm x 255 mm x 150 mm",
+        "Weight": "10 kg",
+        "Energy Optimizer": "Built-in, >40% energy throughput",
+        "Compatibility": "LUNA2000 Battery Modules",
+        "Safety Features": "Advanced safety monitoring",
+        "Usage": "Residential and Commercial"
+      },
+      "description": "Huawei LUNA Power Module Controller\n\nBuilt-In Energy Optimizer: Improves energy throughput by over 40%, enhancing overall efficiency.\nCompact and Lightweight: Dimensions of 590 mm x 255 mm x 150 mm and a weight of just 10 kg for ease of installation.\nSmart Energy Management: Supports real-time data collection and control of energy operations .\nScalability: Compatible with various LUNA battery modules, allowing for flexible system expansion .\nDurability: Designed for long-term reliability in demanding environments.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/200-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-200-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 450/200-TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V/60V/72V/96V",
+        "Maximum PV Power (12V/24V)": "4500W / 9000W",
+        "Maximum PV Power (36V/48V/60V/72V/96V)": "13500W / 18000W / 22500W / 27000W / 36000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "Up to 99%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication Protocol": "VE.Direct, VE.Can",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 450/200-TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V/60V/72V/96V\n\n\nMaximum PV Power (12V/24V)\n4500W / 9000W\n\n\nMaximum PV Power (36V/48V/60V/72V/96V)\n13500W / 18000W / 22500W / 27000W / 36000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\nUp to 99%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication Protocol\nVE.Direct, VE.Can\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 250/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-250-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 250/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "2000W / 4000W",
+        "Maximum PV Power (36V/48V)": "6000W / 8000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 250/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n2000W / 4000W\n\n\nMaximum PV Power (36V/48V)\n6000W / 8000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Felicity 30Amps MPPT Solar Charge Controller | 12V/24V",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/felicity-30amps-mppt-solar-charge-controller-12v-24v/",
+      "specifications": {
+        "Charge Current": "30 Amps",
+        "System Voltage": "12V/24V (Auto-sensing)",
+        "Maximum Input Voltage": "100V DC",
+        "Maximum PV Input Power": "400W (12V), 800W (24V)",
+        "Charging Algorithm": "MPPT (Maximum Power Point Tracking)",
+        "Battery Types": "Lead-Acid, Gel, AGM",
+        "Efficiency": "≥ 99%",
+        "Temperature Compensation": "Automatic",
+        "Protection": "Overcharge, Overload, Short Circuit",
+        "Display": "LCD Display for Real-time Monitoring",
+        "Operating Temperature": "-20°C to 55°C",
+        "Dimensions (LxWxH)": "Varies depending on model"
+      },
+      "description": "MPPT 30A/40A/50A/60A solar charge controller\n100% MPPT technology\n0 Layer, easy installation, easy setup\nBuilt-in MCU controller with high performance\nAutomatic switch for 12V/24V/48V battery bank\n3-stage charging optimizes battery performance\nOvercharge protection, Input PV polarity reverse protection, Output limited current protection,Over-temperature protection\nSuitable for battery types such as sealed lead acid, vented gel, and lithium battery, etc\nEasy to be mounted",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/100-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-100-tr-charge-controller/",
+      "specifications": {},
+      "description": "The MPPT VE.Can SmartSolar charger uses the latest and fastest technology to convert energy from a solar array into energy that optimally charges a battery banks.\nThe SmartSolar charge controller will even recharge a severely depleted battery. It can operate with a battery voltage as low as 0 Volts, provided the cells are not permanently sulphated or otherwise damaged.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Blue Solar Charge Controller MPPT 150/70 CAN BUS",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-blue-solar-charge-controller-mppt-150-70-can-bus/",
+      "specifications": {
+        "Battery Operating Voltage Range": "12/24/36/48 V",
+        "Communication Ports": "VE.Can",
+        "Display": "Yes",
+        "Color Control GX": "Compatible"
+      },
+      "description": "Product Datasheet\n\n\n\nBattery Operating Voltage Range\n12/24/36/48 V\n\n\nCommunication Ports\nVE.Can\n\n\nDisplay\nYes\n\n\nColor Control GX\nCompatible",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Huawei LUNA Power Module Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/huawei-luna-power-module-controller/",
+      "specifications": {
+        "Model": "Huawei LUNA Power Module Controller",
+        "Dimensions (W x D x H)": "590 mm x 255 mm x 150 mm",
+        "Weight": "10 kg",
+        "Energy Optimizer": "Built-in, >40% energy throughput",
+        "Compatibility": "LUNA2000 Battery Modules",
+        "Safety Features": "Advanced safety monitoring",
+        "Usage": "Residential and Commercial"
+      },
+      "description": "Huawei LUNA Power Module Controller\n\nBuilt-In Energy Optimizer: Improves energy throughput by over 40%, enhancing overall efficiency.\nCompact and Lightweight: Dimensions of 590 mm x 255 mm x 150 mm and a weight of just 10 kg for ease of installation.\nSmart Energy Management: Supports real-time data collection and control of energy operations .\nScalability: Compatible with various LUNA battery modules, allowing for flexible system expansion .\nDurability: Designed for long-term reliability in demanding environments.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/200-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-200-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 450/200-TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V/60V/72V/96V",
+        "Maximum PV Power (12V/24V)": "4500W / 9000W",
+        "Maximum PV Power (36V/48V/60V/72V/96V)": "13500W / 18000W / 22500W / 27000W / 36000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "Up to 99%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication Protocol": "VE.Direct, VE.Can",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 450/200-TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V/60V/72V/96V\n\n\nMaximum PV Power (12V/24V)\n4500W / 9000W\n\n\nMaximum PV Power (36V/48V/60V/72V/96V)\n13500W / 18000W / 22500W / 27000W / 36000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\nUp to 99%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication Protocol\nVE.Direct, VE.Can\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 250/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-250-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 250/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "2000W / 4000W",
+        "Maximum PV Power (36V/48V)": "6000W / 8000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 250/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n2000W / 4000W\n\n\nMaximum PV Power (36V/48V)\n6000W / 8000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "SRNE 12 kW Hybrid Solar Inverter | 48 V Three‑Phase HESP48120SH3",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-12-kw-three%e2%80%91phase-hybrid-inverter/",
+      "specifications": {
+        "Model": "SRNE HESP48120SH3 (12 kW, Three‑Phase, 48 V)",
+        "Continuous / Peak Power": "12 000 W / 24 000 VA",
+        "Output Voltage / Frequency": "230/400 VAC, 50/60 Hz pure sine wave",
+        "Battery Voltage": "48 V DC (range 40–60 V)",
+        "MPPT Input Power": "9 000 W + 9 000 W (2 × MPPT), OC voltage up to 800 V each",
+        "MPPT Efficiency": "99.9%",
+        "Hybrid Charging Currents": "Grid/Gen: 120 A; Hybrid total: 260 A",
+        "Transfer Time": "~10 ms",
+        "Protection Rating": "IP65 enclosure",
+        "Parallel Support": "1–6 units, up to 72 kW",
+        "Dimensions / Weight": "670 × 440 × 240 mm; ~39 kg",
+        "Cooling & Env. Specs": "Fan-cooled; −10 °C to 55 °C, derate above 45 °C",
+        "Certifications": "IEC62109‑1/2, EN61000‑6‑1/3, FCC Class B, RoHS",
+        "Communication Interfaces": "RS485, CAN, USB + optional Wi‑Fi/GPRS",
+        "Warranty": "5 years"
+      },
+      "description": "12 kW Continuous / 24 kVA Peak Output – Powers high-load three-phase appliances, motors, and compressors\n\n\nTrue Three-Phase Pure Sine-Wave Output – Clean, stable AC power across all three phases\n\n\nTwo Independent MPPT Channels – Each up to 9 kW, boasting 99.9% efficiency for solar harvesting\n\n\nHybrid Charging (PV/Grid/Gen) – Supports up to 200 A, enabling rapid battery recharging and generator power use\n\n\nIP65 Rated Enclosure – Dustproof and waterproof for outdoor mounting\n\n\nDownload DataSheet: Datasheet_SRNE_HESP Series_8-12kW SH3_EU_Three-Phase_ Solar Hybrid Inverter_V1.1",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 12kW Hybrid Solar Inverter Single‑Phase | 48 V HESP",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-12kw-hybrid-inverter/",
+      "specifications": {
+        "Model": "SRNE HESP48120S200‑H",
+        "Continuous / Peak Output": "12 000 W / 24 000 VA",
+        "Battery Voltage": "48 V DC (supports 48 V Li-ion or lead-acid)",
+        "PV Input": "Dual MPPT, 2 × 6.6 kW, up to 500 V DC each",
+        "Hybrid Charging": "Up to 200 A total (PV + grid/generator)",
+        "Switch Time": "~10 ms for seamless backup",
+        "Protection Rating": "IP65, suitable for outdoor use",
+        "Efficiency": "MPPT ~99.9%, Total ~97.5%",
+        "Parallel Capacity": "Up to 6 units (single- or three-phase setups)",
+        "Communication": "RS485, CAN, USB + optional Wi‑Fi/GPRS",
+        "Dimensions / Weight": "~670×440×220 mm; ~37 kg",
+        "Certifications": "IEC 62109‑1/2, EN 61000, FCC Class B, RoHS",
+        "Operating Temperature": "−25 °C to 60 °C (derated above 45 °C)"
+      },
+      "description": "12 kW Continuous / 24 kVA Peak Output – Powers heavy home and light‑commercial loads like motors, A/Cs, pumps\n\n\nDual MPPT Inputs – Two independent MPPT channels rated up to 500 V with ~99.9% tracking efficiency.\n\n\nHybrid Charging Modes – Offers PV‑only, grid/generator priority, solar priority, and hybrid modes for optimized power use.\n\n\nIP65-Rated Enclosure – Fully dust and water resistant, suitable for outdoor installation\n\n\nDownload DataSheet: Datasheet_SRNE_HESP Series_8-12kW SH3_EU_Three-Phase_ Solar Hybrid Inverter_V1.1",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 8kW Hybrid Solar Inverter | 48V HESP",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-8kw-hybrid-inverter/",
+      "specifications": {
+        "Model": "SRNE HESP4880S200‑H (8 kW / 48 V)",
+        "Continuous Power": "8 000 W",
+        "Peak Power": "17 600 VA",
+        "Battery Voltage": "48 V (40–60 V range)",
+        "MPPT Channels": "2 × 500 V DC, ~22 A input each",
+        "MPPT Efficiency": "~99.9%",
+        "Max PV Input Power": "~6 600 W + 6 600 W",
+        "Rated AC Voltage": "230 VAC (single-phase/split-phase)",
+        "Motor Load Capacity": "Up to 5–6 HP",
+        "Transfer Time": "~10 ms",
+        "Protection Rating": "IP65 (dust & water resistant)",
+        "Parallel Capability": "Up to 6 units (expandable to 48 kW)",
+        "Cooling": "Fan-cooled, −25 °C to +55 °C operating",
+        "Dimensions / Weight": "Approx. 750×440×240 mm / 42 kg",
+        "Certifications": "IEC 62109‑1/2, EN 61000, FCC Class B, RoHS"
+      },
+      "description": "8 kW Continuous / 17.6 kVA Peak Output – Handles heavy appliances, motors, and air conditioners with ease\n\n\nDual MPPT Inputs – Two independent 500 V DC channels with ~99.9% tracking efficiency, supporting large PV arrays\n\n\nIP65 Waterproof Enclosure – Suitable for outdoor installations without special protection\n\n\nHybrid & AC-Coupling Support – Integrates PV, battery, grid, and generator power with automatic switchover modes\n\n\nParallel Expandability (1–6 units) – Scalable solar power up to 48 kW for future system expansion\n\n\nDownload DataSheet: Datasheet_SRNE_HESP Series_8-12kW SH3_EU_Three-Phase_ Solar Hybrid Inverter_V1.1",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 6 kW Hybrid Solar Inverter | 48 V HESP",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-6kw-hybrid-solar-inverter-48v/",
+      "specifications": {
+        "Model": "SRNE HESP4860S100‑H (6 kW / 48 V system)",
+        "Rated Output": "6 000 W continuous / 12 000 VA peak",
+        "Battery Voltage": "48 V (range 40‑58 V)",
+        "MPPT Inputs": "2 × up to 500 V DC, max 22 A per channel, 99.9% eff.",
+        "PV Array Capacity": "Up to approx. 6.6 kW",
+        "Charging Currents": "PV 100 A / Grid 60 A max",
+        "Output Voltage & Freq": "230 VAC, 50/60 Hz pure sine wave",
+        "Transfer Time": "~10 ms typical",
+        "Enclosure & Cooling": "IP65, fan-cooled; −25 to +55 °C operating",
+        "Parallel Capability": "1–6 units (single or three-phase)",
+        "Protections": "Short-circuit, surge, anti-islanding, reverse polarity",
+        "Dimensions / Weight": "556×345×182 mm / 19.2 kg",
+        "Certifications": "IEC 62109‑1/2, EN61000, FCC Class B, RoHS",
+        "Communication": "RS485, CAN, USB, dry contacts; Wi-Fi/GPRS optional"
+      },
+      "description": "6 kW Continuous / 12 kVA Peak Output – Supports high-load appliances including motors and A/Cs\n\n\nDual MPPT Inputs – Flexible panel configuration with independent 500 V DC channels and 99.9% tracking efficiency\n\n\nHybrid Charging Modes – Combine PV, grid, generator, and battery charging with time-slot peak-shaving functionality\n\n\nGenerator & AC Coupling Support – Seamless integration with gensets and grid; supports AC-coupling\n\n\nIP65 Certified – Fully weatherproof casing ideal for outdoor installations\n\n\nDownLoad  DataSheet: SRNE_HESP series_EU_48V_4～6kW_230V_Solar Storage Inverter_Datasheet_V1.0",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 6kW Hybrid Solar Inverter | 48V HYP4860",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-6-kw-hybrid-solar-inverter/",
+      "specifications": {
+        "Model": "SRNE HYP4860S100‑H (6 kW / 48 V system)",
+        "Rated Output": "6 000 W continuous; 12 000 VA peak",
+        "Battery Voltage": "48 V DC",
+        "Solar Input": "Dual MPPT, up to 500 V DC each",
+        "Hybrid Charging Current": "100 A combined (PV + grid/generator)",
+        "Protection Rating": "IP65 – dustproof & waterproof enclosure",
+        "Operating Temperature": "−25 °C to 60 °C",
+        "Parallel Capability": "Up to 6 units (max 36 kW)",
+        "Waveform": "Pure sine wave",
+        "Transfer Time": "~10 ms for seamless backup switching",
+        "Protections": "Over-/under-voltage, short-circuit, reverse polarity, thermal, surge",
+        "Cooling": "Intelligent fan-cooled",
+        "Weight": "~19–20 kg",
+        "Dimensions": "Approx. 556 × 345 × 182 mm",
+        "Battery Compatibility": "Lead-acid / Li-ion (user-defined settings supported)"
+      },
+      "description": "6 kW Continuous + 12 kVA Peak Output – Handles high-powered appliances like motors, pumps, fridges, and air conditioners .\n\n\nDual MPPT (500 V DC each) – Enables efficient solar input with high tracking accuracy and flexible panel configurations.\n\n\n100 A Hybrid Charging – Fast combined PV/grid/generator charging ensures quick replenishment of storage systems.\n\n\nIP65-rated Rugged Enclosure – Fully dust- and waterproof for indoor or outdoor installations.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 5kW Hybrid Solar Inverter | 48V HYP4850",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-5kw-hybrid-inverter-48v-hyp4850/",
+      "specifications": {
+        "MODEL": "HF4835U80-145",
+        "INVERTER OUTPUT": "",
+        "Rated Output Power": "3,500W",
+        "Max.Peak Power": "6,000VA",
+        "Rated Output Voltage": "120Vac（L/N/PE single phase）",
+        "Load Capacity of Motors": "2HP",
+        "Rated AC Frequency": "50Hz/60Hz",
+        "Waveform": "Pure Sine Wave",
+        "Switch Time": "10ms（typical）\n \nLi-ion/Lead-Acid/User Defined",
+        "Rated Battery Voltage": "48Vdc",
+        "Voltage Range": "40~60Vdc",
+        "Max.MPPT Charging Current": "80A",
+        "Max.Mains/Generator Charging\nCurrent": "40A",
+        "Max.Hybrid Charging Current": "120A",
+        "PV INPUT": "",
+        "Num. of MPPT Trackers": "1",
+        "Max.PV Array Power": "4,400W",
+        "Max.Input Current": "50A",
+        "Max.Voltage of Open Circuit": "145Vdc",
+        "MPPT Voltage Range": "60~115Vdc",
+        "MAINS/GENERATOR INPUT": "",
+        "Input Voltage Range": "90~140Vac",
+        "Frequency Range": "50Hz/60Hz",
+        "Bypass Overload Current": "40A",
+        "EFFICIENCY": "",
+        "MPPT Tracking Efficiency": "99.9%",
+        "Max. Battery Inverter Efficiency": "92%",
+        "GENERAL": "",
+        "Dimensions": "426*322*124mm\n（1.3*1*0.4ft）",
+        "Weight": "10.8kg（23.8lb）",
+        "Protection Degree": "IP20, Indor OnIy",
+        "Operating Temperature Range": "-15℃~55℃（5℉~55℉）",
+        "Noise": "<60dB",
+        "Cooling Method": "InternaI Fan",
+        "Warranty": "2 years",
+        "COMMUNICATION": "",
+        "Embedded Interfaces": "RS485/CAN/USB/Dry contact",
+        "External Modules（Optional）": "Wi-Fi/GPRS"
+      },
+      "description": "SRNE 5KVA 48V hybrid pure sinewave inverter with an inbuilt MPPT solar charge controller rated 80A.\nDue to its compactness and seamlessly lower fan noise, the inverter can be installed indoors or outdoors but on a secured area.\nThe inverter supports a variety of batteries ranging from lithium iron batteries,  gel batteries, AGM batteries, flooded batteries and tubular batteries.\nIt has a higher input solar current rating of up to 80A.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 3kW Hybrid Solar Inverter | 24V HF 108 Vdc",
+      "url": "https://solarshop.co.ke/solar-inverters/buy-srne-3kw-hybrid-inverter-24v-108-vdc/",
+      "specifications": {
+        "Model": "SRNE HF2430U60-108 (3 kW / 24 V)",
+        "Rated Output Power": "3 000 W",
+        "Peak Power": "6 000 VA",
+        "Output Voltage/Frequency": "230 VAC, 50/60 Hz, pure sine wave",
+        "Transfer Time": "10 ms (typical)",
+        "Battery Voltage": "24 V (range 20–33 V)",
+        "MPPT": "1 × 60 A (~99.9% efficiency), PV input max 108 V DC",
+        "Grid/Generator Input": "170–280 VAC, supports 50/60 Hz",
+        "Charging Currents": "60 A solar / 80 A grid / 140 A hybrid",
+        "Protection Features": "Over-/under-voltage, short-circuit, reverse polarity, overload, thermal",
+        "Cooling & Protection": "Fan-cooled, IP20 indoor only, operating temp –10 to 55 °C",
+        "Dimensions": "378 × 280 × 103 mm",
+        "Weight": "~6.8–7 kg",
+        "Communication Ports": "RS485, CAN, USB (supports Wi‑Fi/GPRS modules)",
+        "Certifications": "IEC 62109, EN 61000, RoHS, etc."
+      },
+      "description": "SRNE 3kW Hybrid Solar Inverter\n\nHigh Efficiency: Employs advanced Maximum Power Point Tracking (MPPT) technology with up to 99.9% efficiency, optimizing solar energy utilization.\nPure Sine Wave Output: Delivers high-quality pure sine wave AC power, ensuring compatibility with various appliances and reliable long-term performance.\nMultiple Charging Modes: Offers four charging modes—Only Solar, Mains Priority, Solar Priority, and Mains & Solar hybrid charging—providing flexibility to meet diverse application requirements.\nBattery Compatibility: Supports various battery types, including Sealed, Flooded, GEL, Lithium Iron Phosphate (LFP), and Ternary batteries, with adjustable settings to accommodate specific energy storage needs.\n\nDownload dataSheet: SRNE_HFP series_48V_5kW_parallel connection_off grid solar charge inverter_datasheet_V1.0-1",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "SRNE 1.5 kW Hybrid Solar Inverter | 12V HF1215",
+      "url": "https://solarshop.co.ke/solar-inverters/srne-1-5kw-hybrid-solar-inverter/",
+      "specifications": {
+        "Model": "SRNE HF1215 (1.5 kW / 12 V system)",
+        "Rated Power": "1 500 W",
+        "Peak Power": "3 000 VA",
+        "Battery Voltage": "12 V",
+        "PV Input Voltage Range": "Up to 100 V",
+        "Max MPPT Input Current": "60 A",
+        "MPPT Efficiency": "~99.9%",
+        "Output Waveform": "Pure sine wave",
+        "Charging Modes": "PV only, Grid priority, PV priority, Hybrid",
+        "Control Tech": "DSP + SPWM",
+        "Cooling": "Variable-speed fan",
+        "Protections": "Overload, Short-circuit, Under/Over-voltage, Reverse polarity",
+        "Connectivity": "RS485 (Wi‑Fi/GPRS/Bluetooth), CAN, USB",
+        "Battery Options": "Lead-acid / Lithium"
+      },
+      "description": "Hybrid Functionality – Integrates PV charging, grid/generator backup, and inverter output seamlessly\n\n\nPure Sine-Wave Output – Provides clean, reliable power for sensitive electronics\n\n\n60 A MPPT – High tracking efficiency (~99.9%) maximizes solar energy harvest\n\n\nSmart Charging Modes – PV only, grid/generator first, PV first, or hybrid charging\n\n\nDSP & SPWM Technology – Fast and stable power conversion with digital control",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Hybrid Offgrid Inverters",
+        "SRNE Solar"
+      ]
+    },
+    {
+      "name": "Luminous 2500 VA Optimus Inverter Charger | 24V EXP 2800+",
+      "url": "https://solarshop.co.ke/solar-inverters/power-backup-inverter-chargers/luminous-2500va-optimus-inverter/",
+      "specifications": {
+        "Model": "Luminous Optimus 2500 VA EXP 2800+",
+        "Capacity": "2500 VA / 2100 Watts",
+        "System Voltage": "24V (Supports 2 Batteries)",
+        "Output Type": "Pure Sine Wave",
+        "Battery Support": "Flat Plate, Tubular, SMF",
+        "Display": "Smart LCD with fault and performance logs",
+        "Input Voltage Range": "100V – 290V",
+        "Charging Technology": "ABCC (Adaptive Battery Charging Control)",
+        "Protections": "MCB, Overload, Short Circuit, Overheat",
+        "Backup Time": "Varies based on battery capacity & load",
+        "Dimensions": "Approx. 350 x 300 x 140 mm",
+        "Weight": "~18–20 Kg"
+      },
+      "description": "High-Capacity 2500 VA Output – Ideal for running multiple appliances during power outages.\n\n\nPure Sine Wave Technology – Ensures noise-free and stable performance for sensitive electronics.\n\n\nSmart LCD Display – Real-time monitoring of load, battery status, input/output voltage, and errors.\n\n\n24V Dual Battery System – Supports longer backup and better load distribution.\n\n\nABCC Charging Technology – Adaptive charging extends battery life and efficiency.\n\n\nSupports Multiple Battery Types – Compatible with tubular, flat plate, and SMF batteries.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Power Backup Inverter Chargers",
+        "Solar Inverters",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Power Backup Inverter Chargers",
+        "Solar Inverters",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 1600 VA Optimus Inverter Charger | 24V EXP",
+      "url": "https://solarshop.co.ke/solar-inverters/power-backup-inverter-chargers/luminous-1600va-optimus-inverter/",
+      "specifications": {
+        "Model": "Luminous Optimus 1600 VA",
+        "Capacity": "1600 VA / 1340 Watts",
+        "System Voltage": "24V (Supports 2 Batteries)",
+        "Output Type": "Pure Sine Wave",
+        "Battery Support": "Flat Plate, Tubular, SMF",
+        "Input Voltage Range": "100V – 290V",
+        "Display Type": "Smart LCD",
+        "Charging Technology": "ABCC – Adaptive Battery Charging",
+        "Protections": "Overload, Short Circuit, MCB",
+        "Backup Time": "Depends on battery capacity & load",
+        "Dimensions (approx.)": "320 x 275 x 140 mm (L x W x H)",
+        "Weight": "~13–15 Kg"
+      },
+      "description": "Pure Sine Wave Output – Safe for sensitive electronics, ensures noiseless and stable operation.\n\n\nSmart LCD Display – Shows real-time information like battery level, load, backup time, etc.\n\n\n24V System (Dual Battery Support) – Ideal for longer backup and reduced battery load.\n\n\nABCC Technology – Intelligent battery charging for longer battery life and better performance.\n\n\nEco & UPS Mode – Switch between energy-saving and high-performance modes easily.\n\n\nSupports Multiple Battery Types – Compatible with flat plate, tubular, and SMF batteries.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Power Backup Inverter Chargers",
+        "Solar Inverters",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Power Backup Inverter Chargers",
+        "Solar Inverters",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 1100 VA LithiumVerter Inverter Charger | All in One",
+      "url": "https://solarshop.co.ke/solar-inverters/luminous-1100va-lithiumverter-inverter/",
+      "specifications": {
+        "Model": "Luminous LithiumVerter 1100 VA",
+        "Capacity": "1100 VA / 880 Watts",
+        "Technology": "Pure Sine Wave with Lithium Battery",
+        "Battery Type": "Inbuilt Lithium-ion Battery",
+        "Battery Voltage": "12V",
+        "Battery Capacity": "~960 Wh / 80 Ah (approx.)",
+        "Charging Time": "3–4 Hours",
+        "Display": "LED/Smart Indicators",
+        "Protections": "Overload, Short Circuit, BMS-based",
+        "Backup Time": "3–8 hours (depends on load)",
+        "Dimensions": "Approx. 350 x 300 x 150 mm",
+        "Weight": "~15–18 Kg",
+        "Installation": "Wall-mounted or floor-standing"
+      },
+      "description": "Pure Sine Wave Output – Ensures the safety of sensitive appliances and noise-free performance.\n\n\nSmart LCD Display – Real-time insights on power status, load, and backup time.\n\n\nABCC Technology – Adaptive Battery Charging Control for efficient charging and longer battery life.\n\n\nBattery Compatibility – Works with flat plate, tubular, and SMF batteries.\n\n\nEco and UPS Mode – Choose between energy-saving mode and performance mode.\n\n\nFast Charging – Optimized for faster battery charging even with low input voltage.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 1100 VA Optimus Inverter Charger | 12V",
+      "url": "https://solarshop.co.ke/solar-inverters/luminous-1100va-optimus-inverter/",
+      "specifications": {
+        "Model": "Luminous Optimus 1100 VA",
+        "Capacity": "1100 VA / 924 Watts",
+        "Battery Support": "Single Battery (12V)",
+        "Technology": "Pure Sine Wave",
+        "Display": "Smart LCD",
+        "Modes": "UPS Mode / Eco Mode",
+        "Input Voltage Range": "100V – 290V",
+        "Output Voltage": "220V ± 10%",
+        "Charging Current": "17A (Adaptive Charging)",
+        "Dimensions": "275 x 250 x 120 mm (L x W x H)",
+        "Weight": "Approx. 10.5 Kg",
+        "Supported Battery Types": "Flat Plate, Tubular, SMF",
+        "Protections": "MCB, Overload, Short Circuit"
+      },
+      "description": "Pure Sine Wave Output – Ensures the safety of sensitive appliances and noise-free performance.\n\n\nSmart LCD Display – Real-time insights on power status, load, and backup time.\n\n\nABCC Technology – Adaptive Battery Charging Control for efficient charging and longer battery life.\n\n\nBattery Compatibility – Works with flat plate, tubular, and SMF batteries.\n\n\nEco and UPS Mode – Choose between energy-saving mode and performance mode.\n\n\nFast Charging – Optimized for faster battery charging even with low input voltage.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 1100 VA EcoVolt Neo Inverter Charger | 12V",
+      "url": "https://solarshop.co.ke/solar-inverters/luminous-ecovolt-neo-1100-inverter/",
+      "specifications": {
+        "Model": "EcoVolt Neo 1100",
+        "Capacity": "1100 VA / 880W",
+        "Battery System": "12V",
+        "Output Waveform": "Pure Sine Wave",
+        "Input Voltage Range": "110V–285V AC",
+        "Supported Battery Types": "Flat Plate, Tubular, SMF",
+        "Warranty": "24 Months"
+      },
+      "description": "1100 VA Pure Sine Wave Inverter – protects appliances and ensures noiseless performance\n\n\n12V Single Battery System – efficient and easy battery replacement\n\n\nSupports wide voltage range for grid input (110V–285V)\n\n\nAdvanced PCB Programming – enhances performance and durability\n\n\nSmart Charge+ Technology for faster battery charging",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Power Backup Inverter Chargers",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 5kVA SolarVerter Pro Hybrid Solar Inverter | 48V MPPT",
+      "url": "https://solarshop.co.ke/solar-inverters/commercial-ongrid-grid-tied-inverters/luminous-5kva-solarverter-pro-inverter/",
+      "specifications": {
+        "Model": "SolarVerter Pro 5 kVA",
+        "Rated Power": "5000 VA / 4000W",
+        "Battery System": "48V DC",
+        "Charge Controller Type": "MPPT",
+        "Max PV Capacity": "Up to 5000W",
+        "Output Type": "Pure Sine Wave",
+        "Communication": "RS232/USB/Optional WiFi/GPRS",
+        "Warranty": "24 Months"
+      },
+      "description": "5 kVA Hybrid Inverter with 48V battery compatibility\n\n\nIn-built MPPT charge controller for up to 98% solar efficiency\n\n\nIntelligent Energy Management – auto switch between solar, battery, and grid\n\n\nLCD Display for real-time monitoring of system performance\n\n\nCompatible with solar panels up to 5000W\n\n\nSupports remote monitoring and load prioritization",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Commercial Ongrid/Grid-Tied Inverters",
+        "Solar Inverters",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Commercial Ongrid/Grid-Tied Inverters",
+        "Solar Inverters",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Luminous 500 VA NXG+ Hybrid Solar Inverter | 12V PWM",
+      "url": "https://solarshop.co.ke/solar-inverters/luminous-500va-nxg-hybrid-solar-inverter/",
+      "specifications": {
+        "Model": "NXG+ 500",
+        "Rated Power": "500 VA / 400W",
+        "Battery System": "12V DC",
+        "Charge Controller Type": "PWM (Solar)",
+        "Max PV Panel Support": "Up to 400W",
+        "Battery Compatibility": "Flat Plate, Tubular, SMF",
+        "Output Type": "Square Wave",
+        "Warranty": "24 Months"
+      },
+      "description": "500 VA hybrid inverter with built-in 12V PWM solar charge controller\n\n\nIntelligent Solar Optimization Technique (ISOT) for better solar energy utilization\n\n\nBattery type selector switch for compatibility with flat plate, tubular, and SMF batteries\n\n\nFast charging with intelligent load sharing between solar and grid\n\n\nLED indicators for system status",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Inverters",
+        "Luminous Solar"
+      ],
+      "brands": [
+        "Solar Inverters",
+        "Luminous Solar"
+      ]
+    },
+    {
+      "name": "Felicity 50kW Hybrid Ongrid Solar Inverter | High Voltage Three Phase IVGM50KHP3G1",
+      "url": "https://solarshop.co.ke/solar-inverters/hybrid-ongrid-inverters/felicity-50kw-hybrid-ongrid-solar-inverter-ivgm50khp3g1/",
+      "specifications": {
+        "Model": "IVGM50KHP3G1",
+        "Rated Power": "50 kW",
+        "Output Phase": "Three Phase",
+        "MPPTs": "4",
+        "Max. DC Input Power": "65 kW",
+        "Max. Discharging Current": "50 + 50 A",
+        "Battery Type": "LFP (LiFePO4)",
+        "No. of Battery Inputs": "2",
+        "Display": "3.5-inch LCD Touch Screen",
+        "Communication & Monitoring": "WiFi, Fsolar Smart Cloud",
+        "Application": "Factories, Industrial Parks"
+      },
+      "description": "50kW Rated Power – Ideal for industrial and commercial setups\n\n\nThree-Phase Output – Suitable for heavy-load applications\n\n\nHigh Voltage Compatibility – Enhanced efficiency with LFP (LiFePO4) batteries\n\n\nFour MPPTs – Optimized solar energy harvesting\n\n\nSmart Monitoring – Supports WiFi and Fsolar Cloud Monitoring System",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Hybrid Ongrid Inverters",
+        "Solar Inverters",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "Hybrid Ongrid Inverters",
+        "Solar Inverters",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Felicity 6kVA Hybrid Solar Inverter | 48V Low Frequency IVPM6048",
+      "url": "https://solarshop.co.ke/solar-inverters/hybrid-ongrid-inverters/felicity-6kva-hybrid-solar-inverter-48v-low-frequency-ivpm6048/",
+      "specifications": {},
+      "description": "Felicity 6 kVA Hybrid Solar Inverter | 48V Low Frequency IVPM6048\n\nBypass charging function, AC charge available when the unit off\n90-280V AC Widely input voltage Grid electricity and battery power priority is optional.\nHigher charge current and adjustable Built-in our MPPT charge controller.\nIntelligent protection, high class of security.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Hybrid Ongrid Inverters",
+        "Solar Inverters",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "Hybrid Ongrid Inverters",
+        "Solar Inverters",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Felicity 2kVA Hybrid Solar Inverter | 24V High Frequency IVCM2024 PRO",
+      "url": "https://solarshop.co.ke/solar-inverters/hybrid-offgrid-inverters/felicity-2kva-hybrid-solar-inverterivcm2024-pro/",
+      "specifications": {
+        "Model": "IVCM2024 PRO",
+        "Inverter Power": "1000W / 2kVA",
+        "Battery Voltage": "24V DC",
+        "MPPT Solar Charger": "60A",
+        "PV Input Voltage Range": "30–80V",
+        "Waveform": "Pure Sine Wave",
+        "Output Voltage": "230V AC",
+        "Frequency": "50Hz/60Hz",
+        "Charging Modes": "Solar / AC / Solar + AC",
+        "Communication": "Optional WiFi",
+        "Display": "LCD Screen"
+      },
+      "description": "Rated Power: 3500VA / 3500W\n\n\nHigh-frequency pure sine wave output\n\n\nIntegrated MPPT solar charge controller\n\n\n24V DC input system – ideal for mid-range battery banks\n\n\nLCD display for real-time status monitoring\n\n\nConfigurable AC/solar charging current",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Felicity 1kVA Hybrid Solar Inverter | 12V High Frequency IVCM1012 PRO",
+      "url": "https://solarshop.co.ke/solar-inverters/hybrid-offgrid-inverters/felicity-1kva-hybrid-solar-inverter/",
+      "specifications": {
+        "Model": "IVCM1012 PRO",
+        "Inverter Power": "1000W / 1kVA",
+        "Battery Voltage": "12V DC",
+        "MPPT Solar Charger": "60A",
+        "PV Input Voltage Range": "30–80V",
+        "Waveform": "Pure Sine Wave",
+        "Output Voltage": "230V AC",
+        "Frequency": "50Hz/60Hz",
+        "Charging Modes": "Solar / AC / Solar + AC",
+        "Communication": "Optional WiFi",
+        "Display": "LCD Screen"
+      },
+      "description": "Rated Power: 3500VA / 3500W\n\n\nHigh-frequency pure sine wave output\n\n\nIntegrated MPPT solar charge controller\n\n\n24V DC input system – ideal for mid-range battery banks\n\n\nLCD display for real-time status monitoring\n\n\nConfigurable AC/solar charging current",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Must 10 kVA Hybrid Solar Inverter 48V | Low Frequency Offgrid VPM",
+      "url": "https://solarshop.co.ke/solar-inverters/hybrid-offgrid-inverters/must-10kva-hybrid-solar-inverter-48v-vpm/",
+      "specifications": {
+        "Brand": "Must",
+        "Model": "PV1800 VHM",
+        "Capacity": "10KVA (3000W)",
+        "Input Voltage": "48V",
+        "Charge Controller": "Built-in 100A MPPT",
+        "Maximum PV Voltage (VDC)": "250VDC",
+        "Inverter Type": "Hybrid Off-grid",
+        "Output Waveform": "Pure Sine Wave",
+        "Efficiency": "High efficiency with low standby power consumption",
+        "LCD Display": "Smart LCD display for easy monitoring",
+        "Built-in Protections": "Overload, short circuit, overvoltage, and more",
+        "Battery Compatibility": "Supports various battery types and configurations",
+        "Operating Temperature": "Wide operating temperature range for versatility",
+        "Communication": "USB and RS232 for monitoring and data logging"
+      },
+      "description": "Must 10kVA Hybrid Solar Inverter 48V EXP\n\nHybrid Off-grid Design\nBuilt-in Charge Controller\nVersatile Input Voltage\nHigh PV Voltage Support\nPure Sine Wave Output\nEfficient Energy Conversion\nComprehensive LCD Display",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Must Solar"
+      ],
+      "brands": [
+        "Hybrid Offgrid Inverters",
+        "Solar Inverters",
+        "Must Solar"
+      ]
+    },
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "300W",
+        "LED bead（5050）": "72pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "TNTorch Solar Flood Lights 300W",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/tntorch-solar-flood-lights-300w/",
+      "specifications": {},
+      "description": "Elevate your outdoor lighting with TNTorch Solar Flood Lights 300W – the ultimate solution for powerful illumination and enhanced security. Harness the sun’s energy for cost-efficient, eco-friendly lighting that’s perfect for diverse outdoor spaces.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ]
+    },
+    {
+      "name": "5 Meter Solar Strip Warm Light (KTL-801D1)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-strip-led-lights/5-meter-solar-strip-warm-light-ktl-801d1/",
+      "specifications": {
+        "Model": "MJ-SM50",
+        "Material": "ABS+Silicone",
+        "Strip Length": "5m",
+        "LED QTY (PCS)": "SMD2835 48 pcs/m",
+        "Battery": "LiFePO4 6Ah",
+        "Solar Panel": "4V/9W\n(Polycrystalline)",
+        "CCT": "3000-3500K",
+        "Charging Time": "Effective sunshine 4-6 hours",
+        "Discharge Time": "12 Hours+",
+        "Discharge Current": "125MA",
+        "Luminous Flux": "360LM",
+        "Lighting Mode": "Constant lighting\nFlash\nBreathing",
+        "Product Features": "Optical + Switch Control",
+        "IP Rank": "IP65"
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "200W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/200w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "200W",
+        "LED bead（5050）": "80pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Modi 500 Watts LED Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-solar-flood-light-500-watts/",
+      "specifications": {},
+      "description": "MODI solar flood light 500 watts\n\nLong-Term Solution\nRemote Control\nEnvironmental friendly energy\nWide Beam Angle\nHigh-quality components\nWeatherproof body",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "AllTop 3000W Motion Sensor Solar Streets Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-streetlights-with-motion-sensor/alltop-3000w-motion-sensor-solar-streets-light/",
+      "specifications": {
+        "Model": "3000W Solar LED Street Light",
+        "LED Lamp": "Bridgelux 5730 LED 432PCS, 6000K-6500K",
+        "Solar Panel": "10V 39W, Polycrystalline",
+        "Battery Type": "LiFePO4 6.4V 30AH",
+        "Charging Time": "6-8 hours",
+        "Discharging Time": "20-24 hours",
+        "LED Luminous Efficacy": "160 lm/w",
+        "Material": "Aluminum",
+        "Lamp Size": "901220118 mm",
+        "Install Height": "9-12m",
+        "Warranty": "3 years"
+      },
+      "description": "AllTop 3000W Motion Sensor Solar Streets Lights\n3000W Solar LED Street Light\nLED Lamp: 5730 LED 800PCS 6000K\nSolar Panel: 6V 30W, Polycrystalline\nBattery Type: LiFePO4 3.2V 30AH\nCharging time: 6-8 hours\nDischarging time: 12-15 hours\nLed: 160 lm/w\nMaterial: ABS\nProduct Size: 677*342*70mm\nInstall Height: 6-8m\nWarranty: 2 years",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ]
+    },
+    {
+      "name": "100W Solar Celing Light (KTL-901E1-100W)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-stand-alone-lights/100w-solar-celing-light-ktl-901e1-100w/",
+      "specifications": {},
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "500W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/500w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "500W",
+        "LED bead（5050）": "95pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "300W",
+        "LED bead（5050）": "72pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "TNTorch Solar Flood Lights 300W",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/tntorch-solar-flood-lights-300w/",
+      "specifications": {},
+      "description": "Elevate your outdoor lighting with TNTorch Solar Flood Lights 300W – the ultimate solution for powerful illumination and enhanced security. Harness the sun’s energy for cost-efficient, eco-friendly lighting that’s perfect for diverse outdoor spaces.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "TNT Solar"
+      ]
+    },
+    {
+      "name": "5 Meter Solar Strip Warm Light (KTL-801D1)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-strip-led-lights/5-meter-solar-strip-warm-light-ktl-801d1/",
+      "specifications": {
+        "Model": "MJ-SM50",
+        "Material": "ABS+Silicone",
+        "Strip Length": "5m",
+        "LED QTY (PCS)": "SMD2835 48 pcs/m",
+        "Battery": "LiFePO4 6Ah",
+        "Solar Panel": "4V/9W\n(Polycrystalline)",
+        "CCT": "3000-3500K",
+        "Charging Time": "Effective sunshine 4-6 hours",
+        "Discharge Time": "12 Hours+",
+        "Discharge Current": "125MA",
+        "Luminous Flux": "360LM",
+        "Lighting Mode": "Constant lighting\nFlash\nBreathing",
+        "Product Features": "Optical + Switch Control",
+        "IP Rank": "IP65"
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Strip LED lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "200W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/200w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "200W",
+        "LED bead（5050）": "80pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Modi 500 Watts LED Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-solar-flood-light-500-watts/",
+      "specifications": {},
+      "description": "MODI solar flood light 500 watts\n\nLong-Term Solution\nRemote Control\nEnvironmental friendly energy\nWide Beam Angle\nHigh-quality components\nWeatherproof body",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "AllTop 3000W Motion Sensor Solar Streets Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-streetlights-with-motion-sensor/alltop-3000w-motion-sensor-solar-streets-light/",
+      "specifications": {
+        "Model": "3000W Solar LED Street Light",
+        "LED Lamp": "Bridgelux 5730 LED 432PCS, 6000K-6500K",
+        "Solar Panel": "10V 39W, Polycrystalline",
+        "Battery Type": "LiFePO4 6.4V 30AH",
+        "Charging Time": "6-8 hours",
+        "Discharging Time": "20-24 hours",
+        "LED Luminous Efficacy": "160 lm/w",
+        "Material": "Aluminum",
+        "Lamp Size": "901220118 mm",
+        "Install Height": "9-12m",
+        "Warranty": "3 years"
+      },
+      "description": "AllTop 3000W Motion Sensor Solar Streets Lights\n3000W Solar LED Street Light\nLED Lamp: 5730 LED 800PCS 6000K\nSolar Panel: 6V 30W, Polycrystalline\nBattery Type: LiFePO4 3.2V 30AH\nCharging time: 6-8 hours\nDischarging time: 12-15 hours\nLed: 160 lm/w\nMaterial: ABS\nProduct Size: 677*342*70mm\nInstall Height: 6-8m\nWarranty: 2 years",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar streetlights with motion sensor",
+        "AllTop Solar"
+      ]
+    },
+    {
+      "name": "100W Solar Celing Light (KTL-901E1-100W)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-stand-alone-lights/100w-solar-celing-light-ktl-901e1-100w/",
+      "specifications": {},
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Outdoor Lights",
+        "Solar Stand-alone lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "500W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/500w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "500W",
+        "LED bead（5050）": "95pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "300W Solar flood light (AW RGB Rhythm) (KTL-101A2)",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/300w-solar-flood-light-aw-rgb-rhythm-ktl-101a2/",
+      "specifications": {
+        "Model": "MJ-AW500C",
+        "Rated power": "300W",
+        "LED bead（5050）": "72pcs",
+        "Solar   panel": "40W/5V",
+        "LiFePO4 battery": "30AH/3.2V",
+        "Lighting time": "18hours+",
+        "Lighting   area": "300m2",
+        "Color temp.": "RGB   (16million colors)",
+        "Material": "Die-casting   Aluminum",
+        "Water proof": "IP67",
+        "New   function": "Musical Rhythm, APP control",
+        "Charge time": "8H",
+        "Lighting   mode": "Light on at dusk, Light off at dawn   Auto."
+      },
+      "description": "",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Kastom Solar"
+      ]
+    },
+    {
+      "name": "Neelux 30 Watt Solar Flood Light",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/neelux-30-watt-solar-flood-light/",
+      "specifications": {},
+      "description": "Neelux 30 Watt Solar Flood Light",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Neelux Solar"
+      ]
+    },
+    {
+      "name": "MODI 100 Watts LED Solar Flood Light MD-PT77 Series",
+      "url": "https://solarshop.co.ke/solar-outdoor-lights/solar-flood-lights/modi-100-watts-led-solar-flood-light/",
+      "specifications": {
+        "Brand": "Modi",
+        "Model": "OP-PT54100S",
+        "Wattage": "100 Watts",
+        "Light Source": "LED",
+        "Color Temperature": "Color Temperature options available, e.g., Day Light (6000K)",
+        "Material": "Aluminum Diecast",
+        "Dimensions": "[Dimensions: e.g., 39x37x39.5mm]",
+        "IP Rating": "IP65",
+        "Lumens": "[Lumens output]",
+        "Operating Voltage": "[Operating Voltage range, e.g., 100-240V AC]",
+        "Beam Angle": "[Beam Angle options, e.g., 120 degrees]",
+        "Lifespan": "[Lifespan, 30,000 hours]",
+        "Certification": "CE, RoHS"
+      },
+      "description": "Operational Performance: Rated Wattage of 100W, providing high-intensity illumination equivalent to a traditional 500W floodlight.\nInput Voltage: Operates at 6.4V, ensuring compatibility with standard power sources.\nLuminous Flux: Offers a high luminous flux output, ensuring bright and consistent lighting.\nEnergy Efficiency: Utilizes LED technology for energy-efficient operation, reducing electricity consumption and costs.\nDurable Construction: Built with quality materials for long-lasting performance in outdoor environments.\nIP Rating: Possesses an IP65 rating, providing protection against dust and water ingress, making it suitable for outdoor use.\nSleek Design: Features a modern and compact design that enhances the aesthetics of any outdoor space.\nWide Application: Suitable for various outdoor lighting needs, including security lighting, architectural lighting, and landscape illumination.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ],
+      "brands": [
+        "Solar Flood Lights",
+        "Solar Outdoor Lights",
+        "Modi Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Felicity 30Amps MPPT Solar Charge Controller | 12V/24V",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/felicity-30amps-mppt-solar-charge-controller-12v-24v/",
+      "specifications": {
+        "Charge Current": "30 Amps",
+        "System Voltage": "12V/24V (Auto-sensing)",
+        "Maximum Input Voltage": "100V DC",
+        "Maximum PV Input Power": "400W (12V), 800W (24V)",
+        "Charging Algorithm": "MPPT (Maximum Power Point Tracking)",
+        "Battery Types": "Lead-Acid, Gel, AGM",
+        "Efficiency": "≥ 99%",
+        "Temperature Compensation": "Automatic",
+        "Protection": "Overcharge, Overload, Short Circuit",
+        "Display": "LCD Display for Real-time Monitoring",
+        "Operating Temperature": "-20°C to 55°C",
+        "Dimensions (LxWxH)": "Varies depending on model"
+      },
+      "description": "MPPT 30A/40A/50A/60A solar charge controller\n100% MPPT technology\n0 Layer, easy installation, easy setup\nBuilt-in MCU controller with high performance\nAutomatic switch for 12V/24V/48V battery bank\n3-stage charging optimizes battery performance\nOvercharge protection, Input PV polarity reverse protection, Output limited current protection,Over-temperature protection\nSuitable for battery types such as sealed lead acid, vented gel, and lithium battery, etc\nEasy to be mounted",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/100-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-100-tr-charge-controller/",
+      "specifications": {},
+      "description": "The MPPT VE.Can SmartSolar charger uses the latest and fastest technology to convert energy from a solar array into energy that optimally charges a battery banks.\nThe SmartSolar charge controller will even recharge a severely depleted battery. It can operate with a battery voltage as low as 0 Volts, provided the cells are not permanently sulphated or otherwise damaged.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Blue Solar Charge Controller MPPT 150/70 CAN BUS",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-blue-solar-charge-controller-mppt-150-70-can-bus/",
+      "specifications": {
+        "Battery Operating Voltage Range": "12/24/36/48 V",
+        "Communication Ports": "VE.Can",
+        "Display": "Yes",
+        "Color Control GX": "Compatible"
+      },
+      "description": "Product Datasheet\n\n\n\nBattery Operating Voltage Range\n12/24/36/48 V\n\n\nCommunication Ports\nVE.Can\n\n\nDisplay\nYes\n\n\nColor Control GX\nCompatible",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Huawei LUNA Power Module Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/huawei-luna-power-module-controller/",
+      "specifications": {
+        "Model": "Huawei LUNA Power Module Controller",
+        "Dimensions (W x D x H)": "590 mm x 255 mm x 150 mm",
+        "Weight": "10 kg",
+        "Energy Optimizer": "Built-in, >40% energy throughput",
+        "Compatibility": "LUNA2000 Battery Modules",
+        "Safety Features": "Advanced safety monitoring",
+        "Usage": "Residential and Commercial"
+      },
+      "description": "Huawei LUNA Power Module Controller\n\nBuilt-In Energy Optimizer: Improves energy throughput by over 40%, enhancing overall efficiency.\nCompact and Lightweight: Dimensions of 590 mm x 255 mm x 150 mm and a weight of just 10 kg for ease of installation.\nSmart Energy Management: Supports real-time data collection and control of energy operations .\nScalability: Compatible with various LUNA battery modules, allowing for flexible system expansion .\nDurability: Designed for long-term reliability in demanding environments.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/200-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-200-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 450/200-TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V/60V/72V/96V",
+        "Maximum PV Power (12V/24V)": "4500W / 9000W",
+        "Maximum PV Power (36V/48V/60V/72V/96V)": "13500W / 18000W / 22500W / 27000W / 36000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "Up to 99%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication Protocol": "VE.Direct, VE.Can",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 450/200-TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V/60V/72V/96V\n\n\nMaximum PV Power (12V/24V)\n4500W / 9000W\n\n\nMaximum PV Power (36V/48V/60V/72V/96V)\n13500W / 18000W / 22500W / 27000W / 36000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\nUp to 99%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication Protocol\nVE.Direct, VE.Can\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 250/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-250-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 250/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "2000W / 4000W",
+        "Maximum PV Power (36V/48V)": "6000W / 8000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 250/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n2000W / 4000W\n\n\nMaximum PV Power (36V/48V)\n6000W / 8000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Felicity 30Amps MPPT Solar Charge Controller | 12V/24V",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/felicity-30amps-mppt-solar-charge-controller-12v-24v/",
+      "specifications": {
+        "Charge Current": "30 Amps",
+        "System Voltage": "12V/24V (Auto-sensing)",
+        "Maximum Input Voltage": "100V DC",
+        "Maximum PV Input Power": "400W (12V), 800W (24V)",
+        "Charging Algorithm": "MPPT (Maximum Power Point Tracking)",
+        "Battery Types": "Lead-Acid, Gel, AGM",
+        "Efficiency": "≥ 99%",
+        "Temperature Compensation": "Automatic",
+        "Protection": "Overcharge, Overload, Short Circuit",
+        "Display": "LCD Display for Real-time Monitoring",
+        "Operating Temperature": "-20°C to 55°C",
+        "Dimensions (LxWxH)": "Varies depending on model"
+      },
+      "description": "MPPT 30A/40A/50A/60A solar charge controller\n100% MPPT technology\n0 Layer, easy installation, easy setup\nBuilt-in MCU controller with high performance\nAutomatic switch for 12V/24V/48V battery bank\n3-stage charging optimizes battery performance\nOvercharge protection, Input PV polarity reverse protection, Output limited current protection,Over-temperature protection\nSuitable for battery types such as sealed lead acid, vented gel, and lithium battery, etc\nEasy to be mounted",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Felicity Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/100-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-100-tr-charge-controller/",
+      "specifications": {},
+      "description": "The MPPT VE.Can SmartSolar charger uses the latest and fastest technology to convert energy from a solar array into energy that optimally charges a battery banks.\nThe SmartSolar charge controller will even recharge a severely depleted battery. It can operate with a battery voltage as low as 0 Volts, provided the cells are not permanently sulphated or otherwise damaged.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Blue Solar Charge Controller MPPT 150/70 CAN BUS",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-blue-solar-charge-controller-mppt-150-70-can-bus/",
+      "specifications": {
+        "Battery Operating Voltage Range": "12/24/36/48 V",
+        "Communication Ports": "VE.Can",
+        "Display": "Yes",
+        "Color Control GX": "Compatible"
+      },
+      "description": "Product Datasheet\n\n\n\nBattery Operating Voltage Range\n12/24/36/48 V\n\n\nCommunication Ports\nVE.Can\n\n\nDisplay\nYes\n\n\nColor Control GX\nCompatible",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Huawei LUNA Power Module Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/huawei-luna-power-module-controller/",
+      "specifications": {
+        "Model": "Huawei LUNA Power Module Controller",
+        "Dimensions (W x D x H)": "590 mm x 255 mm x 150 mm",
+        "Weight": "10 kg",
+        "Energy Optimizer": "Built-in, >40% energy throughput",
+        "Compatibility": "LUNA2000 Battery Modules",
+        "Safety Features": "Advanced safety monitoring",
+        "Usage": "Residential and Commercial"
+      },
+      "description": "Huawei LUNA Power Module Controller\n\nBuilt-In Energy Optimizer: Improves energy throughput by over 40%, enhancing overall efficiency.\nCompact and Lightweight: Dimensions of 590 mm x 255 mm x 150 mm and a weight of just 10 kg for ease of installation.\nSmart Energy Management: Supports real-time data collection and control of energy operations .\nScalability: Compatible with various LUNA battery modules, allowing for flexible system expansion .\nDurability: Designed for long-term reliability in demanding environments.",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ],
+      "brands": [
+        "Solar Charge Controllers",
+        "Huawei Solar"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 450/200-TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-450-200-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 450/200-TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V/60V/72V/96V",
+        "Maximum PV Power (12V/24V)": "4500W / 9000W",
+        "Maximum PV Power (36V/48V/60V/72V/96V)": "13500W / 18000W / 22500W / 27000W / 36000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "Up to 99%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication Protocol": "VE.Direct, VE.Can",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 450/200-TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V/60V/72V/96V\n\n\nMaximum PV Power (12V/24V)\n4500W / 9000W\n\n\nMaximum PV Power (36V/48V/60V/72V/96V)\n13500W / 18000W / 22500W / 27000W / 36000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\nUp to 99%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication Protocol\nVE.Direct, VE.Can\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 250/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-250-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 250/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "2000W / 4000W",
+        "Maximum PV Power (36V/48V)": "6000W / 8000W",
+        "Maximum PV Open Circuit Voltage": "250V",
+        "Maximum Charge Current": "100A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 250/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n2000W / 4000W\n\n\nMaximum PV Power (36V/48V)\n6000W / 8000W\n\n\nMaximum PV Open Circuit Voltage\n250V\n\n\nMaximum Charge Current\n100A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/100 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-100-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/100 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/100 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/85 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-85-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/85 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/85 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 150/70 TR Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-150-70-tr-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 150/70 TR",
+        "Nominal Battery Voltage": "12V/24V/36V/48V",
+        "Maximum PV Power (12V/24V)": "900W / 1800W",
+        "Maximum PV Power (36V/48V)": "2700W / 3600W",
+        "Maximum PV Open Circuit Voltage": "150V",
+        "Maximum Charge Current": "60A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Communication": "VE.Direct, Bluetooth (optional)",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 150/70 TR\n\n\nNominal Battery Voltage\n12V/24V/36V/48V\n\n\nMaximum PV Power (12V/24V)\n900W / 1800W\n\n\nMaximum PV Power (36V/48V)\n2700W / 3600W\n\n\nMaximum PV Open Circuit Voltage\n150V\n\n\nMaximum Charge Current\n60A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nCommunication\nVE.Direct, Bluetooth (optional)\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    },
+    {
+      "name": "Victron Smart Solar MPPT 100/50 Charge Controller",
+      "url": "https://solarshop.co.ke/solar-charge-controllers/mppt-solar-charge-controllers/victron-smart-solar-mppt-100-50-charge-controller/",
+      "specifications": {
+        "Model": "Smart Solar MPPT 100/50",
+        "Nominal Voltage": "12V/24V",
+        "Maximum PV Power (12V/24V)": "1450W / 2900W",
+        "Maximum PV Open Circuit Voltage": "100V",
+        "Maximum Charge Current": "50A",
+        "Maximum Efficiency": "98%",
+        "Battery Types Supported": "Lead-acid, Gel, AGM, Lithium",
+        "Temperature Range": "-30°C to +60°C (full power)",
+        "Protection": "Overload, Short Circuit, Overcharge",
+        "Communication": "VE.Direct protocol",
+        "Dimensions": "Vary based on model",
+        "Weight": "Vary based on model"
+      },
+      "description": "Feature\nDetails\n\n\n\n\nModel\nSmart Solar MPPT 100/50\n\n\nNominal Voltage\n12V/24V\n\n\nMaximum PV Power (12V/24V)\n1450W / 2900W\n\n\nMaximum PV Open Circuit Voltage\n100V\n\n\nMaximum Charge Current\n50A\n\n\nMaximum Efficiency\n98%\n\n\nBattery Types Supported\nLead-acid, Gel, AGM, Lithium\n\n\nTemperature Range\n-30°C to +60°C (full power)\n\n\nProtection\nOverload, Short Circuit, Overcharge\n\n\nCommunication\nVE.Direct protocol\n\n\nDimensions\nVary based on model\n\n\nWeight\nVary based on model",
+      "price": "KSh4,500.00",
+      "availability": "Availability: in stock",
+      "categories": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ],
+      "brands": [
+        "MPPT Solar Charge Controllers",
+        "Solar Charge Controllers",
+        "Victron Energy"
+      ]
+    }
+  ]
+}

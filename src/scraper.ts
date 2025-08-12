@@ -9,9 +9,12 @@ const scrapeWebsite = async () => {
     args: ["--no-sandbox", "--disable-setuid-sandbox"],
   });
   const page = await browser.newPage();
+  const allBooks: Array<Array<string>> = [];
+  const maxPages: number = 50;
+  const currentPage: number = 1; 
 
   // Navigate to the specified URL
-  const urlToScrape: string = "http://books.toscrape.com/";
+  const urlToScrape: string = `http://books.toscrape.com/catalogue/page-${currentPage}.html`;
   await page.goto(urlToScrape);
 
   //Set screen size to ensure proper rendering
