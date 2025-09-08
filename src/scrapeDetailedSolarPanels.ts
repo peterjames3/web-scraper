@@ -185,7 +185,7 @@ export async function scrapeDetailedSolarPanels() {
 
 interface AutoScrollPage extends Page {}
 
-async function autoScroll(page: puppeteer.Page): Promise<void> {
+async function autoScroll(page: Page): Promise<void> {
   let previousHeight = await page.evaluate(() => document.body.scrollHeight);
   
   while (true) {

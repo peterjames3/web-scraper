@@ -177,8 +177,8 @@ export async function waterHeater() {
       baseUrl: "https://solarshop.co.ke/buy-solar-water-heaters-in-kenya/",
       category: categoryTitle,
       scrapedAt: new Date().toISOString(),
-      //totalProducts: detailedProducts.length,
-      //products: detailedProducts,
+      totalProducts: detailedProducts.length,
+      products: detailedProducts,
     };
 
     fs.writeFileSync(
