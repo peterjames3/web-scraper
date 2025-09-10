@@ -3,6 +3,7 @@ import express from "express";
 import { scrapeDetailedSolarPanels } from "./scrapeDetailedSolarPanels.ts";
 import { InvertersData } from "./inverters.ts";
 import { waterHeater } from "./waterheater.ts";
+import { battery } from './battery.ts';
 
 const app = express();
 const PORT = process.env.PORT || 4000;
@@ -66,6 +67,27 @@ app.get("/water-heater", async (req, res) => {
     });
   }
 });
+
+//route for battery
+app.get("/battery", async (req, res) => {
+  try{
+    const data = await battery();
+    // Ensure data is an array or has a length property
+    const total = Array.isArray(data) ? data.length : 0;
+    res.status(200).json({
+      message: "Battery scraping successful",
+      total,
+      data,
+    });
+  }catch(error){
+    console.log(`Battery scraping failed: ${error}`);
+    res.status(500).json({
+      error: "Battery scraping failed",
+      details: error instanceof Error ? error.message : String(error),
+    })
+  }
+
+  });
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
